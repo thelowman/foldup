@@ -1,0 +1,1 @@
+Normal text file in hidden sub folder.

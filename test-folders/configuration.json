@@ -1,0 +1,16 @@
+﻿[
+  {
+    "title": "test",
+    "description": "Copy files from the test-folders source to dest.",
+    "source": "source",
+    "dest": "dest",
+    "ignoreFolders": [ "ignore-me" ]
+  },
+  {
+    "title": "testcopy",
+    "description": "A copy of the test backup above.",
+    "source": "source",
+    "dest": "dest",
+    "ignoreFolders": [ "ignore-me" ]
+  }
+]

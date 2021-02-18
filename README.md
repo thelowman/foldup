@@ -22,4 +22,5 @@ will enable the command line argument "--apiserver" so you can make a backup by 
 Foldup will create/update/delete files and folders in the destination directory to match the source.
 
 ### Update Feb 2021
-Foldup no longer creates log files.  Just redirect the standard output to wherever it's needed.
+* Stopped creating log files.
+* Added some identification in the output and removed some extra lines.

@@ -65,7 +65,7 @@ namespace foldup
 
 
             // Parse the JSON configuration file
-            Log.WriteLine("Checking the configuration file...");
+            Log.Write("Foldup is checking the configuration file... ");
             try
             {
                 configFile = Newtonsoft.Json.JsonConvert.DeserializeObject<ConfigFileSection[]>(cFile);
